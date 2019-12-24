@@ -2,8 +2,8 @@
 const config = {
   // auth0 setup
   auth0: {
-    domain: 'adobot.auth0.com',
-    clientId: 'DJmrZzLRdbvgeRu2KSWuRAS4ncdLQMij',
+    domain: 'lhjd.auth0.com',
+    clientId: 'ViDiIWN4n4TKsll1RFGk8tDOXxJtnIi0',
     callbackPath: '/callback'
   },
   algolia: {

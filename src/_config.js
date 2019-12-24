@@ -2,7 +2,7 @@
 const config = {
   // auth0 setup
   auth0: {
-    domain: 'lhjd.auth0.com',
+    domain: 'lhjd.au.auth0.com',
     clientId: 'ViDiIWN4n4TKsll1RFGk8tDOXxJtnIi0',
     callbackPath: '/callback'
   },

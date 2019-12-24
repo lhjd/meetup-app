@@ -3,7 +3,7 @@ const config = {
   // auth0 setup
   auth0: {
     domain: 'lhjd.au.auth0.com',
-    clientId: '5e017c66e44a5d07910a30b0',
+    clientId: 'ViDiIWN4n4TKsll1RFGk8tDOXxJtnIi0',
     callbackPath: '/callback'
   },
   algolia: {
